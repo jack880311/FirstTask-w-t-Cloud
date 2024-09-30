@@ -16,6 +16,6 @@
 - 法規：某些國家會有特殊規定，如會要求個人資料不能離開該國家。
 - 可用性：並非所有 Region 都有提供所有的 AWS 服務。
 ## 我如何選擇 Region ？
-我目前選擇 Asia Pacific (Singapore) 此 Region ，原因如下：
+我目前選擇 __Asia Pacific (Singapore)__ 此 Region ，原因如下：
 - 整體來說，該 Region 的地理位置離台灣較近，可減少網路延遲，且具有不只一個 AZ ，可保證一定的穩定度。
 - 雖此 Region 的地理位置沒有 Tokyo 的相近，延遲較高，但由於自己學生身份有成本考量，此延遲程度初步判定尚可接受。
