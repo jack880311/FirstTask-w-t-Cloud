@@ -1,0 +1,5 @@
+# express 套件生成檔案
+node_modules/
+
+# 敏感檔案
+.env
